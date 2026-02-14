@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "カナリア諸島にて",
+  "base_artist": "大滝　詠一",
+  "createdAt": "2026-02-14T13:51:35.714535Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "カナリア諸島にて",
+      "artist": "大滝 詠一",
+      "has_synced": true,
+      "path": "select/01_カナリア諸島にて_大滝_詠一.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "カナリア諸島にて",
+      "artist": "大滝詠一",
+      "has_synced": true,
+      "path": "select/02_カナリア諸島にて_大滝詠一.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "カナリア諸島にて [In the Canary Islands] {Instrumental}",
+      "artist": "大滝詠一 (Eiichi Ohtaki)",
+      "has_synced": true,
+      "path": "select/03_カナリア諸島にて_[In_the_Canary_Islands]_{Instrumental}_大滝詠一_(Eiichi_Ohtaki).lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "カナリア諸島にて (TRACK)",
+      "artist": "大瀧詠一",
+      "has_synced": true,
+      "path": "select/04_カナリア諸島にて_(TRACK)_大瀧詠一.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "カナリア諸島にて",
+      "artist": "大滝 詠一",
+      "has_synced": false,
+      "path": "select/pl_01_カナリア諸島にて_大滝_詠一.txt"
+    }
+  ]
+}
